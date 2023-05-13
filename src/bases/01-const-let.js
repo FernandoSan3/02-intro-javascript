@@ -1,0 +1,16 @@
+// console.log('Hello World!!!d');
+// Variables y constantes
+const  nombre = 'Fernando';
+const apellido = 'Herrera';
+
+let valorDado = 5;
+valorDado = 4;
+
+console.log(nombre, apellido, valorDado);
+
+if (true) {
+    let valorDado = 6;
+    console.log(valorDado);
+}
+
+console.log(valorDado);
